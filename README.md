@@ -1,6 +1,6 @@
 # Intro-to-QML
  
-This is the repo for part 1 of the introduction to QML course on Qt Academy.
+This is the repo for the introduction to QML course on Qt Academy.
 
 
 ## Getting Started
