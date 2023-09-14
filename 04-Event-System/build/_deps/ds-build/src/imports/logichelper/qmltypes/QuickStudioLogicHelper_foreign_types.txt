@@ -1,0 +1,1 @@
+--foreign-types=/Users/ashwalton/Qt/6.5.2/macos/./metatypes/qt6qml_relwithdebinfo_metatypes.json,/Users/ashwalton/Qt/6.5.2/macos/./metatypes/qt6core_relwithdebinfo_metatypes.json,/Users/ashwalton/Qt/6.5.2/macos/./metatypes/qt6network_relwithdebinfo_metatypes.json

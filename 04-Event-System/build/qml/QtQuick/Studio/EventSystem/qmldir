@@ -1,0 +1,12 @@
+module QtQuick.Studio.EventSystem
+linktarget QuickStudioEventSystemplugin
+optional plugin QuickStudioEventSystemplugin
+classname QtQuick_Studio_EventSystemPlugin
+designersupported
+typeinfo QuickStudioEventSystem.qmltypes
+prefer :/QtQuick/Studio/EventSystem/
+singleton EventSystem 6.0 EventSystem.qml
+singleton EventSystem 1.0 EventSystem.qml
+EventListener 6.0 EventListener.qml
+EventListener 1.0 EventListener.qml
+

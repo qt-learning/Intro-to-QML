@@ -1,0 +1,8 @@
+module QtQuick.Studio.Application
+linktarget QuickStudioApplicationplugin
+optional plugin QuickStudioApplicationplugin
+classname QtQuick_Studio_ApplicationPlugin
+designersupported
+typeinfo QuickStudioApplication.qmltypes
+prefer :/QtQuick/Studio/Application/
+

@@ -1,0 +1,5 @@
+<RCC>
+<qresource prefix="/images">
+<file alias="Qt-Wheel-Car.jpg">asset_imports/images/Qt-Wheel-Car-1280x720.jpg</file>
+</qresource>
+</RCC>

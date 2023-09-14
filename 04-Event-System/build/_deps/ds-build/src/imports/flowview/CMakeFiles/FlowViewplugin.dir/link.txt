@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../../qml/FlowView/libFlowViewplugin.a CMakeFiles/FlowViewplugin.dir/FlowViewplugin_autogen/mocs_compilation.cpp.o CMakeFiles/FlowViewplugin.dir/FlowViewplugin_FlowViewPlugin.cpp.o
+/usr/bin/ranlib ../../../../../qml/FlowView/libFlowViewplugin.a

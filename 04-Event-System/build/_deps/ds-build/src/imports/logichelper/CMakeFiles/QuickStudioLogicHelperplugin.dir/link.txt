@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../../qml/QtQuick/Studio/LogicHelper/libQuickStudioLogicHelperplugin.a CMakeFiles/QuickStudioLogicHelperplugin.dir/QuickStudioLogicHelperplugin_autogen/mocs_compilation.cpp.o CMakeFiles/QuickStudioLogicHelperplugin.dir/QuickStudioLogicHelperplugin_QtQuick_Studio_LogicHelperPlugin.cpp.o
+/usr/bin/ranlib ../../../../../qml/QtQuick/Studio/LogicHelper/libQuickStudioLogicHelperplugin.a

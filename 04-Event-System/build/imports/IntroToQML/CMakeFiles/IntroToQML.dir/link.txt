@@ -1,0 +1,2 @@
+/usr/bin/ar qc libIntroToQML.a CMakeFiles/IntroToQML.dir/IntroToQML_autogen/mocs_compilation.cpp.o CMakeFiles/IntroToQML.dir/introtoqml_qmltyperegistrations.cpp.o CMakeFiles/IntroToQML.dir/.rcc/qmlcache/IntroToQML_Constants_qml.cpp.o CMakeFiles/IntroToQML.dir/.rcc/qmlcache/IntroToQML_DirectoryFontLoader_qml.cpp.o CMakeFiles/IntroToQML.dir/.rcc/qmlcache/IntroToQML_EventListModel_qml.cpp.o CMakeFiles/IntroToQML.dir/.rcc/qmlcache/IntroToQML_EventListSimulator_qml.cpp.o
+/usr/bin/ranlib libIntroToQML.a

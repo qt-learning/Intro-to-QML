@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcontent.a CMakeFiles/content.dir/content_autogen/mocs_compilation.cpp.o CMakeFiles/content.dir/content_qmltyperegistrations.cpp.o
+/usr/bin/ranlib libcontent.a

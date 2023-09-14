@@ -1,0 +1,14 @@
+# Target labels
+ ds-populate
+# Source files and their labels
+/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/CMakeFiles/ds-populate
+/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/CMakeFiles/ds-populate.rule
+/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/CMakeFiles/ds-populate-complete.rule
+/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-build.rule
+/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure.rule
+/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-download.rule
+/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-install.rule
+/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir.rule
+/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch.rule
+/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-test.rule
+/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-update.rule

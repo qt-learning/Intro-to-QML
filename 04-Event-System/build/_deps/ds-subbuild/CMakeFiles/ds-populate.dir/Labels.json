@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/CMakeFiles/ds-populate"
+		},
+		{
+			"file" : "/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/CMakeFiles/ds-populate.rule"
+		},
+		{
+			"file" : "/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/CMakeFiles/ds-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-build.rule"
+		},
+		{
+			"file" : "/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-download.rule"
+		},
+		{
+			"file" : "/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-install.rule"
+		},
+		{
+			"file" : "/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-test.rule"
+		},
+		{
+			"file" : "/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ds-populate"
+		],
+		"name" : "ds-populate"
+	}
+}

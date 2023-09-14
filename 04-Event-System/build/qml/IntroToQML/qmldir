@@ -1,0 +1,11 @@
+module IntroToQML
+linktarget IntroToQMLplugin
+optional plugin IntroToQMLplugin
+classname IntroToQMLPlugin
+typeinfo IntroToQML.qmltypes
+prefer :/IntroToQML/
+singleton Constants 1.0 Constants.qml
+DirectoryFontLoader 1.0 DirectoryFontLoader.qml
+EventListModel 1.0 EventListModel.qml
+EventListSimulator 1.0 EventListSimulator.qml
+
