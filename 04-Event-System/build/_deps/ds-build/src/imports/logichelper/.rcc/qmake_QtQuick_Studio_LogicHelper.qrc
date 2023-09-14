@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/QtQuick/Studio/LogicHelper">
-    <file alias="qmldir">/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/qml/QtQuick/Studio/LogicHelper/qmldir</file>
-  </qresource>
-</RCC>
-

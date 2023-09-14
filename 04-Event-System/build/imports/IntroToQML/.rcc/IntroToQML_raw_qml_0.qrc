@@ -1,9 +1,0 @@
-<RCC>
-  <qresource prefix="/IntroToQML/">
-    <file alias="Constants.qml">/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/imports/IntroToQML/Constants.qml</file>
-    <file alias="DirectoryFontLoader.qml">/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/imports/IntroToQML/DirectoryFontLoader.qml</file>
-    <file alias="EventListModel.qml">/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/imports/IntroToQML/EventListModel.qml</file>
-    <file alias="EventListSimulator.qml">/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/imports/IntroToQML/EventListSimulator.qml</file>
-  </qresource>
-</RCC>
-

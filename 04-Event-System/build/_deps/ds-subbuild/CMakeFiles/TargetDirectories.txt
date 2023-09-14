@@ -1,3 +1,0 @@
-/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/CMakeFiles/ds-populate.dir
-/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/CMakeFiles/edit_cache.dir
-/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/_deps/ds-subbuild/CMakeFiles/rebuild_cache.dir

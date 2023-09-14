@@ -1,4 +1,0 @@
-module Main
-typeinfo IntroToQMLApp.qmltypes
-prefer :/Main/
-

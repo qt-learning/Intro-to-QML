@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/IntroToQML">/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/build/qml/IntroToQML</file>
-
-  </qresource>
-</RCC>

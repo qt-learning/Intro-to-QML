@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../qml/IntroToQML/libIntroToQMLplugin.a CMakeFiles/IntroToQMLplugin.dir/IntroToQMLplugin_autogen/mocs_compilation.cpp.o CMakeFiles/IntroToQMLplugin.dir/IntroToQMLplugin_IntroToQMLPlugin.cpp.o
-/usr/bin/ranlib ../../qml/IntroToQML/libIntroToQMLplugin.a

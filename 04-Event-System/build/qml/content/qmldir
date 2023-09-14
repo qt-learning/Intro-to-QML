@@ -1,7 +1,0 @@
-module content
-linktarget contentplugin
-optional plugin contentplugin
-classname contentPlugin
-typeinfo content.qmltypes
-prefer :/content/
-

@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="qtquickcontrols2.conf">/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/qtquickcontrols2.conf</file>
-  </qresource>
-</RCC>
-

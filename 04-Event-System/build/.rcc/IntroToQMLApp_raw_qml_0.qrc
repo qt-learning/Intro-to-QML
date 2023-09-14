@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/Main/">
-    <file alias="main.qml">/Users/ashwalton/Desktop/Intro-To-QML/04-Event-System/main.qml</file>
-  </qresource>
-</RCC>
-
