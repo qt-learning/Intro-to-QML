@@ -1,45 +1,18 @@
-cmake_minimum_required(VERSION 3.21.1)
+cmake_minimum_required(VERSION 3.20)
+project(IntroToQML LANGUAGES CXX)
 
-option(LINK_INSIGHT "Link Qt Insight Tracker library" ON)
-option(BUILD_QDS_COMPONENTS "Build design studio components" ON)
 
-project(IntroToQMLApp LANGUAGES CXX)
+find_package(Qt6 REQUIRED COMPONENTS Quick)
+qt_standard_project_setup(REQUIRES 6.5)
 
-set(CMAKE_AUTOMOC ON)
+qt_add_executable(IntroToQML main.cpp)
 
-find_package(Qt6 6.2 REQUIRED COMPONENTS Core Gui Qml Quick)
-
-if (Qt6_VERSION VERSION_GREATER_EQUAL 6.3)
-    qt_standard_project_setup()
-endif()
-
-qt_add_executable(IntroToQMLApp src/main.cpp)
-
-qt_add_resources(IntroToQMLApp "configuration"
-    PREFIX "/"
-    FILES
-        qtquickcontrols2.conf
+qt_add_qml_module(IntroToQML
+    URI "Main"
+    QML_FILES "Main.qml"
 )
 
-target_link_libraries(IntroToQMLApp PRIVATE
-    Qt6::Core
-    Qt6::Gui
-    Qt6::Qml
-    Qt6::Quick
-)
-
-if (BUILD_QDS_COMPONENTS)
-    include(${CMAKE_CURRENT_SOURCE_DIR}/qmlcomponents)
-endif()
-
-include(${CMAKE_CURRENT_SOURCE_DIR}/qmlmodules)
-
-if (LINK_INSIGHT)
-    include(${CMAKE_CURRENT_SOURCE_DIR}/insight)
-endif ()
-
-install(TARGETS IntroToQMLApp
-    BUNDLE DESTINATION .
-    LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}
-    RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}
+target_link_libraries(IntroToQML
+    PRIVATE
+        Qt6::Quick
 )
