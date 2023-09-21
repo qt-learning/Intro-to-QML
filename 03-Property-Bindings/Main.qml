@@ -2,8 +2,8 @@ import QtQuick
 
 Window {
     id: root
-    width: 1280/2
-    height: 720/2
+    width: 640
+    height: 360
     visible: true
     title: qsTr("Hello World")
 
