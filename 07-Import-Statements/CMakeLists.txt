@@ -10,8 +10,8 @@ qt_add_executable(IntroToQML main.cpp)
 qt_add_qml_module(IntroToQML
     URI "Main"
     QML_FILES   Main.qml
-                module1.mjs
-                module2.mjs
+                script.mjs
+                square.mjs
 )
 
 target_link_libraries(IntroToQML
