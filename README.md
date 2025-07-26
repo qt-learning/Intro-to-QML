@@ -5,7 +5,7 @@ This is the repo for the introduction to QML course on Qt Academy.
 
 ## Getting Started
 - Navigate to the **00-Syntax** folder and open the `CMakeLists.txt` file with Qt Creator. You will be greeted with an empty `Hello World` application based on an example seen in the course.
-- We will use multiple projects through, don't worry we will guid you to the examples!
+- We will use multiple projects through, don't worry we will guide you to the examples!
 - We will explore the structure of QML documents and elements in different contexts.
 
 ## Instructions
