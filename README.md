@@ -1,6 +1,19 @@
 # Intro-to-QML
- 
-This is the repo for the introduction to QML course on Qt Academy.
+This is the repo for the Qt Academy Introduction to QML course.
+
+> Get the full learning experience by enrolling in the course on [Qt Academy](https://www.qt.io/academy/course-catalog?q#qml-for-beginners)
+
+> You can also find the course playlist on the [Qt YouTube channel](https://www.youtube.com/playlist?list=PLizsthdRd0Yx8l19PnjT-3NpB3z2qOHMj)
+
+## 🎯 What You'll Learn
+- **Understand QML's role** and why it's a great choice for creating dynamic UIs
+- **Grasp QML syntax** using current best practices, including type safety features and binding patterns
+- **Apply core QML concepts** such as object types, property bindings, signals, and component architecture effectively
+- **Structure QML applications** following modern organizational patterns that scale with project complexity
+
+**⭐ Skill Level:** Beginner
+
+**⏱️ Time to Complete:** 90 minutes
 
 
 ## Getting Started
