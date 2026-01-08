@@ -9,7 +9,7 @@ Window {
 
     Image {
         id: image
-        source: "qrc:/Images/Qt-Wheel-Car.jpg"
+        source: "Images/Qt-Wheel-Car.jpg"
 
         Text {
             text: "Hello World"
