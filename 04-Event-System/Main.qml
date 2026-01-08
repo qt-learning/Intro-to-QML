@@ -12,11 +12,12 @@ Window {
         id: root
 
         // These are the signal declarations.
-        signal activated(xPosition:real, yPosition:real)
+        signal activated(xPosition: real, yPosition: real)
         signal deactivated
 
         property int side: 100
-        width: side; height: side
+        width: side
+        height: side
         color: "#2CDE85"
 
         MouseArea {
@@ -27,15 +28,14 @@ Window {
             This will emit the signal when the mouse is pressed.
             The mouse position is passed as an argument.
             */
-            onPressed: (mouse)=> root.activated(mouse.x, mouse.y)
+            onPressed: mouse => root.activated(mouse.x, mouse.y)
         }
     }
 
-    SquareButton{
+    SquareButton {
         // This will print "Deactivated" when the mouse is released.
         onDeactivated: console.log("Deactivated")
         // This will print "Activated at: <xPosition> <yPosition>" when the mouse is pressed.
-        onActivated: (xPosition, yPosition) =>
-            console.log("Activated at:", xPosition, yPosition)
+        onActivated: (xPosition, yPosition) => console.log("Activated at:", xPosition, yPosition)
     }
 }

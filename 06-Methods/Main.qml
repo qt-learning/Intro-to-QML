@@ -15,16 +15,16 @@ Window {
         const r = Math.random();
         const g = Math.random();
         const b = Math.random();
-        root.color = Qt.rgba(r,g,b,1);
+        root.color = Qt.rgba(r, g, b, 1);
     }
 
     /*
     Create a timer that triggers the colorRandomizer function every second.
     */
     Timer {
-        interval: 1000;
-        running: true;
-        repeat: true;
-        onTriggered: colorRandomizer()
+        interval: 1000
+        running: true
+        repeat: true
+        onTriggered: root.colorRandomizer()
     }
 }

@@ -58,3 +58,10 @@ compile_commands.json
 
 # DS_Store files
 .DS_Store
+
+# QMLLS
+.qmlls.ini
+
+# Build Folders
+build/
+builds/

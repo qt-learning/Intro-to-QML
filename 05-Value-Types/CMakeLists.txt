@@ -8,10 +8,11 @@ qt_standard_project_setup(REQUIRES 6.5)
 qt_add_executable(IntroToQML main.cpp)
 
 qt_add_qml_module(IntroToQML
-    URI "Main"
-    QML_FILES   Main.qml
-                PassByValue.qml
-                PassByReference.qml
+    URI Main
+    QML_FILES
+        Main.qml
+        PassByReference.qml
+        PassByValue.qml
 )
 
 target_link_libraries(IntroToQML
