@@ -1,3 +1,6 @@
+# Copyright (C) 2026 Qt Group.
+# SPDX-License-Identifier: LicenseRef-Qt-Commercial OR GPL-3.0-only
+
 cmake_minimum_required(VERSION 3.20)
 project(IntroToQML LANGUAGES CXX)
 
