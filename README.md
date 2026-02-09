@@ -47,7 +47,7 @@ Copyright (C) 2026 Qt Group.
 SPDX-License-Identifier: LicenseRef-Qt-Commercial OR GPL-3.0-only
 ```
 
-This is a Qt Quick 3D Android learning project demonstrating how to create a Qt Design Studio project with 3D content and deploy it to Android devices.
+This is a collection of small QML applications that demonstrate key concepts for learning QML and the Qt Framework.
 
 ### Terms and Conditions
 
