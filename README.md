@@ -4,7 +4,7 @@ This is the repo for the Qt Academy Introduction to QML course.
 
 > Get the full learning experience by enrolling in the course on [Qt Academy](https://www.qt.io/academy/course-catalog?q#qml-for-beginners)
 
-> You can also find the course playlist on the [Qt YouTube channel](https://www.youtube.com/playlist?list=PLizsthdRd0Yx8l19PnjT-3NpB3z2qOHMj)
+> You can also find the course playlist on the [Qt YouTube channel](https://youtube.com/playlist?list=PLizsthdRd0YyWgyhYZ_pjooIi4pzdNUg6&si=0uh_o6eLUprwH09W)
 
 ## 🎯 What You'll Learn
 
